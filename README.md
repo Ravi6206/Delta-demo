@@ -2,7 +2,7 @@
 This is a Demo for Git &amp; Github class
 
 # Techer
-Shardha Maam
+Aman Sir
 
 # student
 Delta-Student
